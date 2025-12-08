@@ -1,0 +1,43 @@
+{
+  "name": "TESTING-AREA",
+  "description": "TESTING-AREA",
+  "version": "3.0",
+  "manifest_version": 3,
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "*://kixeye.com/*",
+    "<all_urls>"
+  ],
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "TESTING-AREA"
+  },
+  "background": {},
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "NUF",
+        "enabled": true,
+        "path": "NUF.js"
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "scripts/base-6-skirmish.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
