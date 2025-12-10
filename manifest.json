@@ -28,7 +28,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "scripts/base-6-skirmish.js"
+        "scripts/base_clean.js"
       ],
       "matches": [
         "<all_urls>"
