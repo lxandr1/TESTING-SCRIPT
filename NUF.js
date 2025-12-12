@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "extensionPath": "/scripts/base-6-skirmish.js"
+        "extensionPath": "/scripts/base-deo.js"
       }
     },
     "condition": {
