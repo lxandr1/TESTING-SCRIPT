@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "extensionPath": "/scripts/base-deo.js"
+        "extensionPath": "/scripts/base.js"
       }
     },
     "condition": {

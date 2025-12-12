@@ -28,7 +28,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "scripts/base-deo.js"
+        "scripts/base.js"
       ],
       "matches": [
         "<all_urls>"
