@@ -28,7 +28,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "scripts/base.js"
+        "scripts/base2.js"
       ],
       "matches": [
         "<all_urls>"

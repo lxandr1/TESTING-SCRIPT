@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "extensionPath": "/scripts/base.js"
+        "extensionPath": "/scripts/base2.js"
       }
     },
     "condition": {
